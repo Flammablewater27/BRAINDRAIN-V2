@@ -11,5 +11,7 @@ sprite[DOWN] = spr_player_down;
 face = DOWN;
 
 image_xscale = 1;
-
 image_yscale = 1;
+
+// Add a new variable to track the speed boost
+boost_spd = 2;  // Amount to increase speed by when Shift is pressed

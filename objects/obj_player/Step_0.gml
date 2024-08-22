@@ -1,7 +1,7 @@
-right_key = keyboard_check(vk_right);
-up_key = keyboard_check(vk_up);
-left_key = keyboard_check(vk_left);
-down_key = keyboard_check(vk_down);
+right_key = keyboard_check(68);  // D key (ASCII value 68) for moving right
+up_key = keyboard_check(87);     // W key (ASCII value 87) for moving up
+left_key = keyboard_check(65);   // A key (ASCII value 65) for moving left
+down_key = keyboard_check(83);   // S key (ASCII value 83) for moving down
 
 
 //get xspd and yspd
