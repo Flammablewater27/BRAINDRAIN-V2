@@ -17,11 +17,17 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings":[
+    {"name":"obj_pauser","order":4,"path":"objects/obj_pauser/obj_pauser.yy",},
     {"name":"obj_wall","order":1,"path":"objects/obj_wall/obj_wall.yy",},
+    {"name":"obj_warp_block","order":2,"path":"objects/obj_warp_block/obj_warp_block.yy",},
+    {"name":"obj_warp","order":3,"path":"objects/obj_warp/obj_warp.yy",},
+    {"name":"Room2","order":1,"path":"rooms/Room2/Room2.yy",},
     {"name":"spr_player_left","order":4,"path":"sprites/spr_player_left/spr_player_left.yy",},
     {"name":"spr_player_right","order":5,"path":"sprites/spr_player_right/spr_player_right.yy",},
     {"name":"spr_player_up","order":3,"path":"sprites/spr_player_up/spr_player_up.yy",},
     {"name":"spr_wall","order":1,"path":"sprites/spr_wall/spr_wall.yy",},
-    {"name":"Sprite3","order":2,"path":"sprites/Sprite3/Sprite3.yy",},
+    {"name":"spr_warp_block","order":6,"path":"sprites/spr_warp_block/spr_warp_block.yy",},
+    {"name":"spr_warp_transition","order":7,"path":"sprites/spr_warp_transition/spr_warp_transition.yy",},
+    {"name":"tileset","order":2,"path":"sprites/tileset/tileset.yy",},
   ],
 }
