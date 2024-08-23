@@ -1,0 +1,1 @@
+audio_play_sound( sngindoors1, 4, true );
