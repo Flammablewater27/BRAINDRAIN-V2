@@ -42,6 +42,7 @@
     {"id":{"name":"oMusicBlock","path":"objects/oMusicBlock/oMusicBlock.yy",},},
     {"id":{"name":"oMusicManager","path":"objects/oMusicManager/oMusicManager.yy",},},
     {"id":{"name":"parallax_background_effects","path":"objects/parallax_background_effects/parallax_background_effects.yy",},},
+    {"id":{"name":"rm_title_screen","path":"rooms/rm_title_screen/rm_title_screen.yy",},},
     {"id":{"name":"rmInit","path":"rooms/rmInit/rmInit.yy",},},
     {"id":{"name":"rmPinkInside0","path":"rooms/rmPinkInside0/rmPinkInside0.yy",},},
     {"id":{"name":"rmPinkOutside0","path":"rooms/rmPinkOutside0/rmPinkOutside0.yy",},},
@@ -51,6 +52,7 @@
     {"id":{"name":"sngPinkRoomInside","path":"sounds/sngPinkRoomInside/sngPinkRoomInside.yy",},},
     {"id":{"name":"sngPinkRoomOutside","path":"sounds/sngPinkRoomOutside/sngPinkRoomOutside.yy",},},
     {"id":{"name":"spr_bg_pink","path":"sprites/spr_bg_pink/spr_bg_pink.yy",},},
+    {"id":{"name":"spr_main_font","path":"sprites/spr_main_font/spr_main_font.yy",},},
     {"id":{"name":"spr_player_down","path":"sprites/spr_player_down/spr_player_down.yy",},},
     {"id":{"name":"spr_player_left","path":"sprites/spr_player_left/spr_player_left.yy",},},
     {"id":{"name":"spr_player_right","path":"sprites/spr_player_right/spr_player_right.yy",},},
@@ -67,6 +69,7 @@
     {"roomId":{"name":"rmInit","path":"rooms/rmInit/rmInit.yy",},},
     {"roomId":{"name":"rmPinkOutside0","path":"rooms/rmPinkOutside0/rmPinkOutside0.yy",},},
     {"roomId":{"name":"rmPinkInside0","path":"rooms/rmPinkInside0/rmPinkInside0.yy",},},
+    {"roomId":{"name":"rm_title_screen","path":"rooms/rm_title_screen/rm_title_screen.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
