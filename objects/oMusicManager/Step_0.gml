@@ -61,7 +61,7 @@ for( var i = 0; i < array_length(fadeOutInstances); i++ )
 	//Fade the volume
 	if fadeOutInstTime[i] > 0 
 	{
-		if fadeInInstVol[i] > 0 { fadeInInstVol[i] -= 1/fadeOutInstTime[i]; };
+		if fadeOutInstVol[i] > 0 { fadeOutInstVol[i] -= 1/fadeOutInstTime[i]; };
 	}
 	//immediately cut volume to 0 otherwise
 	else
@@ -72,7 +72,7 @@ for( var i = 0; i < array_length(fadeOutInstances); i++ )
 	audio_sound_gain( fadeOutInstances[i], fadeOutInstVol[i]*_finalVol,0);
 	
 	//stop the song when it's volume is at 0 and remove it from ALL arrays
-	if fadeInInstVol[i] <= 0
+	if fadeOutInstVol[i] <= 0
 	{
 		//stop the song 
 		if audio_is_playing( fadeOutInstances[i] ){ audio_stop_sound( fadeOutInstances[i]);};

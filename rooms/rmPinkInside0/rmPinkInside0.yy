@@ -1,19 +1,20 @@
 {
   "$GMRoom":"v1",
-  "%Name":"Room2",
+  "%Name":"rmPinkInside0",
   "creationCodeFile":"",
   "inheritCode":false,
   "inheritCreationOrder":false,
   "inheritLayers":false,
   "instanceCreationOrder":[
-    {"name":"inst_9C23EE9","path":"rooms/Room2/Room2.yy",},
-    {"name":"inst_2F4DB508","path":"rooms/Room2/Room2.yy",},
-    {"name":"inst_3948D538","path":"rooms/Room2/Room2.yy",},
-    {"name":"inst_3730ECED","path":"rooms/Room2/Room2.yy",},
-    {"name":"inst_5C7B87CD","path":"rooms/Room2/Room2.yy",},
-    {"name":"inst_829DEC8","path":"rooms/Room2/Room2.yy",},
-    {"name":"inst_3ACACCF7","path":"rooms/Room2/Room2.yy",},
-    {"name":"inst_19432296","path":"rooms/Room2/Room2.yy",},
+    {"name":"inst_9C23EE9","path":"rooms/rmPinkInside0/rmPinkInside0.yy",},
+    {"name":"inst_2F4DB508","path":"rooms/rmPinkInside0/rmPinkInside0.yy",},
+    {"name":"inst_3948D538","path":"rooms/rmPinkInside0/rmPinkInside0.yy",},
+    {"name":"inst_3730ECED","path":"rooms/rmPinkInside0/rmPinkInside0.yy",},
+    {"name":"inst_5C7B87CD","path":"rooms/rmPinkInside0/rmPinkInside0.yy",},
+    {"name":"inst_829DEC8","path":"rooms/rmPinkInside0/rmPinkInside0.yy",},
+    {"name":"inst_3ACACCF7","path":"rooms/rmPinkInside0/rmPinkInside0.yy",},
+    {"name":"inst_19432296","path":"rooms/rmPinkInside0/rmPinkInside0.yy",},
+    {"name":"inst_44D88225","path":"rooms/rmPinkInside0/rmPinkInside0.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -28,6 +29,7 @@
       ],"layers":[],"name":"Walls","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":false,},
     {"$GMRInstanceLayer":"","%Name":"Instances","depth":100,"effectEnabled":true,"effectType":null,"gridX":64,"gridY":64,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"$GMRInstance":"v1","%Name":"inst_19432296","colour":4294967295,"frozen":false,"hasCreationCode":true,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_19432296","objectId":{"name":"obj_warp_block","path":"objects/obj_warp_block/obj_warp_block.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.59375,"scaleY":1.90625,"x":939.0,"y":259.0,},
+        {"$GMRInstance":"v1","%Name":"inst_44D88225","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_44D88225","objectId":{"name":"oMusicBlock","path":"objects/oMusicBlock/oMusicBlock.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":3.0,"scaleY":3.0,"x":192.0,"y":384.0,},
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRTileLayer":"","%Name":"Tiles_1","depth":200,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Tiles_1","properties":[],"resourceType":"GMRTileLayer","resourceVersion":"2.0","tiles":{"SerialiseHeight":10,"SerialiseWidth":15,"TileCompressedData":[
           -16,24,1,10,-6,11,1,12,-7,24,1,18,-6,19,1,20,-7,24,1,18,-6,19,1,20,-7,24,1,18,-7,19,-6,11,2,24,18,-7,
@@ -35,7 +37,7 @@
         ],"TileDataFormat":1,},"tilesetId":{"name":"ts_test_tiles","path":"tilesets/ts_test_tiles/ts_test_tiles.yy",},"userdefinedDepth":false,"visible":true,"x":0,"y":0,},
     {"$GMRBackgroundLayer":"","%Name":"Background","animationFPS":15.0,"animationSpeedType":0,"colour":4278190080,"depth":300,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Background","properties":[],"resourceType":"GMRBackgroundLayer","resourceVersion":"2.0","spriteId":null,"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
   ],
-  "name":"Room2",
+  "name":"rmPinkInside0",
   "parent":{
     "name":"Rooms",
     "path":"folders/Rooms.yy",

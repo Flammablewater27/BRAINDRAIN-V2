@@ -1,7 +1,7 @@
 xspd = 0;
 yspd = 0;
 
-move_spd = 4;
+move_spd = 9;
 
 sprite[RIGHT] = spr_player_right;
 sprite[UP] = spr_player_up;

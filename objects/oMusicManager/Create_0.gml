@@ -4,9 +4,9 @@ global.musicVolume = 1;
 //info for the song we are currently playing/ trying to play
 songInstance = noone;
 songAsset = noone;
-targetSongAsset = sngPinkRoomOutside;
+targetSongAsset = noone;
 endFadeOutTime = 0;//how many frames to fade out the song currently playing
-startFadeInTime = 500;// how many frames to fade in the new song
+startFadeInTime = 0;// how many frames to fade in the new song
 fadeInInstVol = 1;//the volume of songInstance
 
 //For fading music out and stopping songs that are no longer playing
