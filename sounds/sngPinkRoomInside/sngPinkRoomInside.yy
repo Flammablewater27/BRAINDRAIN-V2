@@ -1,6 +1,6 @@
 {
   "$GMSound":"",
-  "%Name":"sngindoors1",
+  "%Name":"sngPinkRoomInside",
   "audioGroupId":{
     "name":"audiogroup_default",
     "path":"audiogroups/audiogroup_default",
@@ -9,8 +9,8 @@
   "bitRate":512,
   "compression":3,
   "conversionMode":0,
-  "duration":240.0,
-  "name":"sngindoors1",
+  "duration":194.96,
+  "name":"sngPinkRoomInside",
   "parent":{
     "name":"Sounds",
     "path":"folders/Sounds.yy",
@@ -19,7 +19,7 @@
   "resourceType":"GMSound",
   "resourceVersion":"2.0",
   "sampleRate":48000,
-  "soundFile":"sngindoors1.ogg",
+  "soundFile":"sngPinkRoomInside.ogg",
   "type":1,
   "volume":1.0,
 }

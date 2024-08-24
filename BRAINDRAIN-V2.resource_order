@@ -25,6 +25,7 @@
     {"name":"parallax_background_effects","order":5,"path":"objects/parallax_background_effects/parallax_background_effects.yy",},
     {"name":"Room2","order":1,"path":"rooms/Room2/Room2.yy",},
     {"name":"sngAmbiance","order":1,"path":"sounds/sngAmbiance/sngAmbiance.yy",},
+    {"name":"sngPinkRoomInside","order":2,"path":"sounds/sngPinkRoomInside/sngPinkRoomInside.yy",},
     {"name":"spr_bg_pink","order":8,"path":"sprites/spr_bg_pink/spr_bg_pink.yy",},
     {"name":"spr_player_left","order":4,"path":"sprites/spr_player_left/spr_player_left.yy",},
     {"name":"spr_player_right","order":5,"path":"sprites/spr_player_right/spr_player_right.yy",},
