@@ -18,6 +18,8 @@
   ],
   "ResourceOrderSettings":[
     {"name":"obj_pauser","order":4,"path":"objects/obj_pauser/obj_pauser.yy",},
+    {"name":"obj_settings","order":9,"path":"objects/obj_settings/obj_settings.yy",},
+    {"name":"obj_title_menu","order":8,"path":"objects/obj_title_menu/obj_title_menu.yy",},
     {"name":"obj_wall","order":1,"path":"objects/obj_wall/obj_wall.yy",},
     {"name":"obj_warp_block","order":2,"path":"objects/obj_warp_block/obj_warp_block.yy",},
     {"name":"obj_warp","order":3,"path":"objects/obj_warp/obj_warp.yy",},
@@ -32,6 +34,7 @@
     {"name":"sngPinkRoomInside","order":2,"path":"sounds/sngPinkRoomInside/sngPinkRoomInside.yy",},
     {"name":"spr_bg_pink","order":8,"path":"sprites/spr_bg_pink/spr_bg_pink.yy",},
     {"name":"spr_main_font","order":9,"path":"sprites/spr_main_font/spr_main_font.yy",},
+    {"name":"spr_menu","order":10,"path":"sprites/spr_menu/spr_menu.yy",},
     {"name":"spr_player_left","order":4,"path":"sprites/spr_player_left/spr_player_left.yy",},
     {"name":"spr_player_right","order":5,"path":"sprites/spr_player_right/spr_player_right.yy",},
     {"name":"spr_player_up","order":3,"path":"sprites/spr_player_up/spr_player_up.yy",},
