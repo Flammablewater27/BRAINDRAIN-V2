@@ -51,6 +51,7 @@
     {"id":{"name":"scr_macros","path":"scripts/scr_macros/scr_macros.yy",},},
     {"id":{"name":"scrMusicFunctions","path":"scripts/scrMusicFunctions/scrMusicFunctions.yy",},},
     {"id":{"name":"sngAmbiance","path":"sounds/sngAmbiance/sngAmbiance.yy",},},
+    {"id":{"name":"sngMainMenu","path":"sounds/sngMainMenu/sngMainMenu.yy",},},
     {"id":{"name":"sngPinkRoomInside","path":"sounds/sngPinkRoomInside/sngPinkRoomInside.yy",},},
     {"id":{"name":"sngPinkRoomOutside","path":"sounds/sngPinkRoomOutside/sngPinkRoomOutside.yy",},},
     {"id":{"name":"spr_bg_pink","path":"sprites/spr_bg_pink/spr_bg_pink.yy",},},
@@ -70,9 +71,9 @@
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
     {"roomId":{"name":"rmInit","path":"rooms/rmInit/rmInit.yy",},},
+    {"roomId":{"name":"rm_title_screen","path":"rooms/rm_title_screen/rm_title_screen.yy",},},
     {"roomId":{"name":"rmPinkOutside0","path":"rooms/rmPinkOutside0/rmPinkOutside0.yy",},},
     {"roomId":{"name":"rmPinkInside0","path":"rooms/rmPinkInside0/rmPinkInside0.yy",},},
-    {"roomId":{"name":"rm_title_screen","path":"rooms/rm_title_screen/rm_title_screen.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[

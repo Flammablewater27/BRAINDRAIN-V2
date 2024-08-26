@@ -31,6 +31,7 @@
     {"name":"rmPinkInside0","order":1,"path":"rooms/rmPinkInside0/rmPinkInside0.yy",},
     {"name":"scrMusicFunctions","order":1,"path":"scripts/scrMusicFunctions/scrMusicFunctions.yy",},
     {"name":"sngAmbiance","order":1,"path":"sounds/sngAmbiance/sngAmbiance.yy",},
+    {"name":"sngMainMenu","order":3,"path":"sounds/sngMainMenu/sngMainMenu.yy",},
     {"name":"sngPinkRoomInside","order":2,"path":"sounds/sngPinkRoomInside/sngPinkRoomInside.yy",},
     {"name":"spr_bg_pink","order":8,"path":"sprites/spr_bg_pink/spr_bg_pink.yy",},
     {"name":"spr_main_font","order":9,"path":"sprites/spr_main_font/spr_main_font.yy",},
