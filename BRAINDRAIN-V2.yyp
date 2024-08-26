@@ -70,9 +70,9 @@
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
     {"roomId":{"name":"rmInit","path":"rooms/rmInit/rmInit.yy",},},
-    {"roomId":{"name":"rm_title_screen","path":"rooms/rm_title_screen/rm_title_screen.yy",},},
     {"roomId":{"name":"rmPinkOutside0","path":"rooms/rmPinkOutside0/rmPinkOutside0.yy",},},
     {"roomId":{"name":"rmPinkInside0","path":"rooms/rmPinkInside0/rmPinkInside0.yy",},},
+    {"roomId":{"name":"rm_title_screen","path":"rooms/rm_title_screen/rm_title_screen.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
