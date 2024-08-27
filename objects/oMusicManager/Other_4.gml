@@ -16,8 +16,8 @@ if room == rmPinkInside0
 	set_song_ingame( sngPinkRoomInside, 60, 0 );	
 }
 
-if room == rm_title_screen
+//if room == rm_title_screen
 //|| room = "more rooms that have the same song"
-{
-	set_song_ingame( sngMainMenu, 0, 0 );	
-}
+//{
+//	set_song_ingame( sngMainMenu, 10, 20 );	
+//}
